@@ -1,4 +1,5 @@
 <archimate:ApplicationCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Application Collaboration 1 "
-    id="a4928a93-44e5-48da-a467-81d2fd2d262c"/>
+    id="a4928a93-44e5-48da-a467-81d2fd2d262c"
+    documentation="I'm adding documentation to this element so I can have something to commit to GitHub"/>
